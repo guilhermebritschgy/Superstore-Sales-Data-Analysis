@@ -1,8 +1,8 @@
 # 📊 Superstore Sales Data Analysis
 
-This project performs an exploratory data analysis (EDA) on the Superstore Sales dataset to identify patterns in sales, customer behavior, product performance, and delivery times.
+End-to-end exploratory data analysis project using Python to extract business insights from retail sales data.
 
-The goal is to extract actionable insights from the dataset using Python and common data analysis libraries.
+The project includes data cleaning, feature engineering, and exploratory data analysis to understand sales performance across regions, product categories, and customer segments.
 
 ---
 
@@ -69,6 +69,19 @@ The analysis explores:
 - **Average delivery time**
 
 Visualizations were created to highlight trends and patterns in the dataset.
+
+---
+
+## Business Questions
+
+This analysis aims to answer the following questions:
+
+- Which product categories generate the most revenue?
+- Which regions contribute the most to total sales?
+- Which customer segments purchase the most?
+- How do sales evolve over time?
+- What is the average delivery time?
+- Are there products responsible for a large share of revenue?
 
 ---
 
